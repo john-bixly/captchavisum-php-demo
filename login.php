@@ -1,5 +1,5 @@
 <?php
-define(CAPTCHA_API, "http://localhost:8000/api/");
+define(CAPTCHA_API, "http://captchavisum.bixly.com/api/");
 define(CHALLENGE_API, CAPTCHA_API . "challenge/");
 define(VERIFY_API, CAPTCHA_API . "verify/");
 define(API_KEY, "db48aec447e24caaa8fed3e64764f90f");
